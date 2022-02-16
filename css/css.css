@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#root{
+    width: 100%;
+    height: 500px;
+    padding-top: 45px;
+    box-sizing: border-box;
+}
+:root{
+    /*Variables de color*/
+    --Negro:  #000000;
+    --Gris: #a5a5aa;
+    --blanco: #ffffff;
+
+    /*Variales de temaño*/
+    --h1: 20px;
+}

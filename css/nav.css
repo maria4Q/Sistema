@@ -1,0 +1,38 @@
+.navegación{
+    width: 800px;
+    height: 45px;
+    padding: auto;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    flex-direction: row;
+
+    background-color: black;
+}
+h1{
+    font-size: var(--h1);
+    color: var(--blanco);
+    font-family: 'Homemade Apple', cursive;
+    /*padding: -8px;*/
+    float: left;
+    margin-left: 8px;
+    margin-top: 2px;
+}
+.navegación img{
+    cursor: pointer;
+    align-items: flex-end;
+    width: 20px;
+    float: right;
+    margin: 8px 5px 1px 8px;
+
+}
+.barra{
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.barra img{
+    width: 45px;
+    padding: 3px;
+    cursor: pointer;
+}

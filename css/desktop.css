@@ -1,0 +1,12 @@
+.ventana{
+    width: 800px;
+    height: 500px;
+    background-image: url(https://wwwhatsnew.com/wp-content/uploads/2021/07/captura313.jpg);
+    /*background-color: darkgrey;*/
+    -webkit-box-shadow: 24px 14px 31px 3px rgba(128,123,128,1);
+    -moz-box-shadow: 24px 14px 31px 3px rgba(128,123,128,1);
+    box-shadow: 24px 14px 31px 3px rgba(128,123,128,1);
+
+    margin: auto;
+    border-radius: 15px;
+}
